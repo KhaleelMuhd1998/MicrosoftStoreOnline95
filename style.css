@@ -1,0 +1,87 @@
+/** Common Elements. **/
+
+@font-face {
+    font-family: "W95FA";
+    src: url("./fonts/w95fa.woff2");
+}
+
+body {
+    background-color: #008a8a;
+    font-family: "W95FA", monospace;
+}
+
+button {
+    background-color: #c0c0c0;
+    border: 1;
+    border-color: #808080;
+    font-family: "W95FA", monospace;
+    color: #000000;
+}
+
+footer {
+    position: absolute;
+    bottom: 16px;
+}
+
+/** Custom Elements. **/
+
+.StyleLogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#StyleContainerParent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+}
+
+#StyleContainer1 {
+    border: 3px solid #808080;
+    background-color: #c0c0c0;
+    padding: 2px;
+    width: 448px;
+    height: 384px;
+}
+
+.StyleContainer1Title {
+    background: linear-gradient(90deg, rgba(0,2,129,1) 0%, rgba(16,132,208,1) 100%);
+    color: #ffffff;
+    padding: 4px;
+}
+
+#StyleContainer1Body {
+    padding: 8px;
+}
+
+#StyleContainer1DynamicElement {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#StyleContainer2 {
+    border: 3px solid #808080;
+    background-color: #c0c0c0;
+    padding: 2px;
+    width: 384px;
+    height: 384px;
+}
+
+.StyleContainer2Title {
+    background: linear-gradient(90deg, rgba(128,128,128,1) 0%, rgba(181,181,181,1) 100%); 
+    color: #c0c0c0;
+    padding: 4px;
+}
+
+#StyleContainer2DynamicElement {
+    padding: 4px;
+}
+
+#StyleContainer2DynamicElementTable {
+    border: 1px solid #808080;
+    border-collapse: collapse;
+    padding: 2px;
+}

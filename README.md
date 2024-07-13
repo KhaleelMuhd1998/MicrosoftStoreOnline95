@@ -1,7 +1,8 @@
-# Microsoft Store Online 95
+# Microsoft® Store Online 95
 
 A simple web desktop app made with basic JavaScript, as a part of my college project.<br>
 <br>
+Preview the app here: https://khaleelmuhammad1998.github.io/MicrosoftStoreOnline95/
 
 ## Copyright
 This project contains third-party content with specific licenses. These content are here for demonstration puposes only. Please refer to licenses of the content prior to reusing.<br>

@@ -2,7 +2,7 @@
 
 A simple web desktop app made with basic JavaScript, as a part of my college project.<br>
 <br>
-Preview the app here: https://khaleelmuhammad1998.github.io/MicrosoftStoreOnline95/ <br>
+Preview the app here: https://khaleelmuhd1998.github.io/MicrosoftStoreOnline95/ <br>
 <br>
 ![Microsoft® Store Online](https://github.com/khaleelmuhammad1998/MicrosoftStoreOnline95/blob/main/Screenshot.png?raw=true)
 
